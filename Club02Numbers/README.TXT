@@ -10,3 +10,7 @@ VERSION or DATE:            V 1.0 2019-12-01
 HOW TO START THIS PROJECT:  Ejecutar el main() de la clase PosNegNul
 AUTHORS:                    18161110 Díaz Ruiz Alejandro
 USER INSTRUCTIONS:
+Al ejecutar el main de la clase PosNegNul, imprime en pantalla
+si el número introducido en el método determina, es positivo,
+negativo o cero. 
+
